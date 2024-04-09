@@ -10,3 +10,6 @@ npm start
 ````
 
 
+## Firebase
+
+//TODO: Add more details about the structure
